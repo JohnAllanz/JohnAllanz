@@ -1,4 +1,4 @@
-# 👩🏻‍💻 John Allan
+# 👨‍💻 John Allan
 
 **`Desenvolvedor`**
 
